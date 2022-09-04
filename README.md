@@ -26,7 +26,7 @@
 
 <item>
 <title>[COLOR silver][B] Kaamelott - Premier Volet  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3efd1709c07986996d886660df2e0d3b53be6476</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XWT3HOIKACMXESPVGD26FGGKGM53I3EH</link>
 <thumbnail>https://abutretorrents.com/imagens/kaamelott-premier-volet-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart></fanart>
 <info>Escondido em Roma, o rei Arthur planeja seu retorno para se opor ao exército de seu ex-amigo Lancelot. O tirânico Lancelot-du-Lac e seus mercenários saxões estão reinando no terror sobre o reino de Logres. Os deuses, insultados por esta ditadura cruel, provocam o retorno de Artur Pendragon e o advento da resistência. Será que Artur conseguirá unir os clãs rebeldes, derrubar seu rival, retomar Camelot e restaurar a paz na ilha da Bretanha?</info>
