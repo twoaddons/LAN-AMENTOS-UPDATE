@@ -34,6 +34,15 @@
 *************************************
 
 <item>
+<title>[COLOR silver][B] SAMARITANO  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6429b3fe8614b55b429bc2eb023e1553118ec2f2</link>
+<thumbnail>https://abutretorrents.com/imagens/samaritano-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Baseado em uma ideia original, o thriller se concentra em um garoto que está prestes a descobrir se um super-herói mítico, que desapareceu 20 anos antes de um evento trágico, ainda está vivo.</info>
+</item> 
+*************************************
+
+<item>
 <title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
