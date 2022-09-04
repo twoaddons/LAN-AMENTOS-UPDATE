@@ -1,6 +1,3 @@
-<?xml version="3.0" encoding="UTF-8" standalone="yes"?>
-
-<items>
 
 <item>
 <title>[COLOR silver][B] TOP GUN MAVERICK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -9,7 +6,7 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após 34 anos na força, o lendário Capitão Pete "Maverick" Mitchell (Tom Cruise) se torna o novo instrutor de voo da Top Gun, fazendo com que ele seja o mentor de Bradley Bradshaw (Miles Teller), o filho de Goose, que busca ser um piloto melhor do que o seu pai foi.</info>
 </item> 
-
+*****************************
 <item>
 <title>[COLOR silver][B]DC LIGA DOS SUPER PETS  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ER6I54N4GVVKW4CNO22W73RDVXV5Y3PN</link>
@@ -17,3 +14,4 @@
 <fanart></fanart>
 <info>O The Hollywood Reporter anunciou nesta quarta-feira (30) que a Warner Bros definiu a data de estreia do novo filme de animação baseado em propriedades da DC: Super Pets.</info>
 </item> 
+*************************************
