@@ -63,6 +63,52 @@
 
 
 <item>
+<title>[COLOR silver][B] PASSEI POR AQUI [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc5d08e8f53c535331b466d02de4938998e6d47f</link>
+<thumbnail>https://baixakifilmes.net/uploads/04/940271772631091be496f8.jpg</thumbnail>
+<fanart></fanart>
+<info>Segue um jovem grafiteiro que descobre um segredo chocante que colocaria ele e os mais próximos a ele em perigo. Um jovem grafiteiro rebelde tem como alvo principal as casas de uma elite rica da região, ação que o aproxima da propriedade de um sinistro juiz de prestígio. O grafiteiro acaba descobrindo um segredo chocante, que o leva a uma jornada que coloca em risco a si mesmo e aos mais próximos a ele, sendo perseguido como nunca.</info>
+</item> 
+*************************************
+
+
+<item>
+<title>[COLOR silver][B] NAS PROFUNDEZAS [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F7BQXT5MEZCSOWB5Z4YJPE5W7T5NKHP</link>
+<thumbnail>https://baixakifilmes.net/uploads/04/451699291631091c5c6b30.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem desesperada por uma fuga, conhece um estranho misterioso e atraente que promete uma viagem romântica. O que se segue é engano, desconfiança e violência.</info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B] ARMADILHA EXPLOSIVA [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7G36YISD5DXTKKFXFNEGO5MZZWHMQ6HV</link>
+<thumbnail>https://baixakifilmes.net/uploads/03/16156204436310918c3af8e.jpg</thumbnail>
+<fanart></fanart>
+<info>Em um estacionamento parisiense, Sonia se vê presa em seu carro com seu filho e a filha de seu namorado Fred, que foi deixado do lado de fora, impotente para lidar com a situação: uma mina antitanque foi colocada embaixo do carro.</info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
 <title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
@@ -72,7 +118,14 @@
 *************************************
 
 
-
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
 
 
 
